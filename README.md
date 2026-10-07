@@ -1,4 +1,9 @@
-# Odin-nov-repo
-4 files needs addressed
+# Nov Repo
 
-Please check and classify in correct stages
+A scratch repository for practising Git workflows and triaging loose files.
+
+> **Status:** practice/scratch — not a project. Candidate for archiving.
+
+## License
+
+MIT
